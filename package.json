@@ -1,0 +1,14 @@
+{
+  "name": "emitter",
+  "version": "1.0.0",
+  "description": "basic javascript event em itter",
+  "main": "code.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "radelmann",
+  "license": "ISC",
+  "dependencies": {
+    "must-call": "^1.0.0"
+  }
+}
